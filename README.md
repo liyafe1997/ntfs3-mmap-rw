@@ -1,3 +1,11 @@
+ # ntfs3-mmap-rw
+ 
+ **WARNING: DO NOT use the filesystem driver in this repositry in your real environment, because it may CORRUPT your data!**
+ 
+ The main purpose is make ntfs3 supports mmap rw, it still in "can it be done" stage. 
+ 
+ But seems it is not a big deal, I have no idea why Paragon doesn't support it.
+ 
 # ntfs3
 
 **ntfs3** is a free (as in free beer **and** free speech) filesystem kernel module for Linux kernel that is developed by Paragon Software.
